@@ -1,0 +1,8 @@
+fastapi==0.109.2
+uvicorn==0.27.0.post1
+scikit-learn==1.4.0
+pandas==2.2.0
+tiktoken==0.5.2
+streamlit==1.31.0
+httpx==0.26.0
+sqlalchemy==2.0.25

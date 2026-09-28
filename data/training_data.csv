@@ -1,0 +1,901 @@
+prompt,tier
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```              ,2
+What are the main causes of the French Revolution?   ,1
+What is the capital of France?     ,0
+What are the main causes of the French Revolution?        ,1
+Explain quantum computing to a 5-year-old.     ,1
+Write a Python script to scrape a website and save to CSV.       ,2
+Write a polite email saying I will be late.     ,0
+Write a polite email saying I will be late.  ,0
+Explain quantum computing to a 5-year-old.       ,1
+What are the main causes of the French Revolution?    ,1
+What are the main causes of the French Revolution?         ,1
+Compare the differences between Python and Java.,1
+Write a short essay on climate change impacts.,1
+Summarize this text.    ,0
+Write a SQL query with multiple INNER JOINS and a window function.             ,2
+What is the weather like today?   ,0
+Translate 'hello' to Spanish.    ,0
+Write a SQL query with multiple INNER JOINS and a window function.     ,2
+"Hello, how are you?  ",0
+What is the capital of France?    ,0
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.            ,2
+What is the weather like today?    ,0
+Write a SQL query with multiple INNER JOINS and a window function.    ,2
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```         ,2
+Write a SQL query with multiple INNER JOINS and a window function.      ,2
+What are the main causes of the French Revolution?,1
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```    ,2
+What are the main causes of the French Revolution?    ,1
+Write a polite email saying I will be late.     ,0
+How do I structure a JSON payload for a REST API?          ,1
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```     ,2
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```     ,2
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```     ,2
+Translate 'hello' to Spanish.  ,0
+Write a Python script to scrape a website and save to CSV.               ,2
+What is the weather like today? ,0
+What are the main causes of the French Revolution?         ,1
+Compare the differences between Python and Java.  ,1
+What are the main causes of the French Revolution?    ,1
+Write a Python script to scrape a website and save to CSV.        ,2
+"Hello, how are you?    ",0
+What is the capital of France?  ,0
+How do I structure a JSON payload for a REST API?         ,1
+Write a SQL query with multiple INNER JOINS and a window function.,2
+Compare the differences between Python and Java.     ,1
+Write a SQL query with multiple INNER JOINS and a window function.   ,2
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```          ,2
+What is the capital of France?    ,0
+Explain quantum computing to a 5-year-old.         ,1
+Write a short essay on climate change impacts.        ,1
+Write a SQL query with multiple INNER JOINS and a window function.         ,2
+Write a short essay on climate change impacts.          ,1
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.       ,2
+Explain quantum computing to a 5-year-old.  ,1
+Write a SQL query with multiple INNER JOINS and a window function.             ,2
+Write a short essay on climate change impacts.      ,1
+Write a Python script to scrape a website and save to CSV.   ,2
+Write a SQL query with multiple INNER JOINS and a window function.          ,2
+What are the main causes of the French Revolution? ,1
+"Hello, how are you?     ",0
+Compare the differences between Python and Java. ,1
+What is the weather like today?     ,0
+Translate 'hello' to Spanish.   ,0
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```          ,2
+What are the main causes of the French Revolution?,1
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.  ,2
+Explain quantum computing to a 5-year-old.       ,1
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation. ,2
+Translate 'hello' to Spanish.     ,0
+"Hello, how are you?  ",0
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ``` ,2
+Write a Python script to scrape a website and save to CSV.  ,2
+What is the capital of France?     ,0
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.    ,2
+Compare the differences between Python and Java.          ,1
+Write a polite email saying I will be late. ,0
+Write a short essay on climate change impacts.     ,1
+Write a short essay on climate change impacts.    ,1
+Write a Python script to scrape a website and save to CSV.      ,2
+What are the main causes of the French Revolution?      ,1
+Write a polite email saying I will be late.    ,0
+Translate 'hello' to Spanish.     ,0
+Translate 'hello' to Spanish.   ,0
+Write a Python script to scrape a website and save to CSV.    ,2
+Write a Python script to scrape a website and save to CSV.   ,2
+Compare the differences between Python and Java.  ,1
+What is the capital of France? ,0
+Write a Python script to scrape a website and save to CSV.               ,2
+Explain quantum computing to a 5-year-old.  ,1
+"Hello, how are you? ",0
+Write a short essay on climate change impacts.      ,1
+"Hello, how are you?    ",0
+Write a polite email saying I will be late.     ,0
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.    ,2
+Summarize this text. ,0
+"Hello, how are you?  ",0
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```    ,2
+What is the capital of France?    ,0
+Summarize this text.     ,0
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```   ,2
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```     ,2
+How do I structure a JSON payload for a REST API?      ,1
+What is the weather like today?,0
+Write a short essay on climate change impacts.         ,1
+"Hello, how are you?    ",0
+Write a Python script to scrape a website and save to CSV.       ,2
+Write a SQL query with multiple INNER JOINS and a window function.               ,2
+Explain quantum computing to a 5-year-old.          ,1
+Explain quantum computing to a 5-year-old.     ,1
+Write a SQL query with multiple INNER JOINS and a window function.             ,2
+Write a short essay on climate change impacts.        ,1
+What is the weather like today?  ,0
+"Hello, how are you?     ",0
+Explain quantum computing to a 5-year-old.         ,1
+Translate 'hello' to Spanish.  ,0
+What is the capital of France?  ,0
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```      ,2
+What are the main causes of the French Revolution?        ,1
+What is the capital of France?  ,0
+Write a polite email saying I will be late. ,0
+How do I structure a JSON payload for a REST API?       ,1
+Write a SQL query with multiple INNER JOINS and a window function.    ,2
+What is the weather like today?   ,0
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.        ,2
+Write a short essay on climate change impacts.        ,1
+Summarize this text.   ,0
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```       ,2
+Summarize this text.   ,0
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.            ,2
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```  ,2
+Translate 'hello' to Spanish.  ,0
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```          ,2
+How do I structure a JSON payload for a REST API?      ,1
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```               ,2
+"Hello, how are you?    ",0
+Explain quantum computing to a 5-year-old.,1
+Write a polite email saying I will be late.,0
+What are the main causes of the French Revolution?    ,1
+Write a short essay on climate change impacts.      ,1
+Translate 'hello' to Spanish.,0
+What is the weather like today?,0
+Explain quantum computing to a 5-year-old.  ,1
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.       ,2
+How do I structure a JSON payload for a REST API?    ,1
+Write a SQL query with multiple INNER JOINS and a window function.              ,2
+Write a polite email saying I will be late.     ,0
+Translate 'hello' to Spanish.  ,0
+How do I structure a JSON payload for a REST API?        ,1
+What is the capital of France?   ,0
+Write a SQL query with multiple INNER JOINS and a window function.          ,2
+How do I structure a JSON payload for a REST API?   ,1
+Explain quantum computing to a 5-year-old.,1
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.      ,2
+Write a polite email saying I will be late.    ,0
+Compare the differences between Python and Java.       ,1
+What are the main causes of the French Revolution?         ,1
+Write a polite email saying I will be late. ,0
+What are the main causes of the French Revolution?         ,1
+How do I structure a JSON payload for a REST API?        ,1
+Write a polite email saying I will be late.  ,0
+What is the capital of France?,0
+"Hello, how are you?",0
+What are the main causes of the French Revolution?     ,1
+Compare the differences between Python and Java.   ,1
+Write a short essay on climate change impacts.  ,1
+Write a SQL query with multiple INNER JOINS and a window function.         ,2
+Write a polite email saying I will be late.   ,0
+What are the main causes of the French Revolution?  ,1
+"Hello, how are you?     ",0
+Write a polite email saying I will be late.  ,0
+What are the main causes of the French Revolution?    ,1
+Write a polite email saying I will be late.    ,0
+What is the weather like today?,0
+Write a polite email saying I will be late.  ,0
+What are the main causes of the French Revolution? ,1
+What are the main causes of the French Revolution? ,1
+Summarize this text.,0
+Summarize this text.,0
+Write a Python script to scrape a website and save to CSV.          ,2
+What are the main causes of the French Revolution?      ,1
+What is the capital of France?,0
+Write a SQL query with multiple INNER JOINS and a window function.       ,2
+How do I structure a JSON payload for a REST API?,1
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```            ,2
+Write a SQL query with multiple INNER JOINS and a window function.   ,2
+Write a short essay on climate change impacts. ,1
+Compare the differences between Python and Java. ,1
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.               ,2
+Write a SQL query with multiple INNER JOINS and a window function.            ,2
+What are the main causes of the French Revolution?   ,1
+What is the weather like today?  ,0
+"Hello, how are you? ",0
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation. ,2
+Write a Python script to scrape a website and save to CSV.   ,2
+Write a polite email saying I will be late.     ,0
+Write a SQL query with multiple INNER JOINS and a window function.              ,2
+Explain quantum computing to a 5-year-old.       ,1
+What is the capital of France?    ,0
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```       ,2
+Explain quantum computing to a 5-year-old.         ,1
+What is the weather like today? ,0
+Explain quantum computing to a 5-year-old.          ,1
+What is the capital of France?   ,0
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```             ,2
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```   ,2
+Write a Python script to scrape a website and save to CSV.,2
+Summarize this text.     ,0
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```             ,2
+Write a SQL query with multiple INNER JOINS and a window function.        ,2
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.           ,2
+Compare the differences between Python and Java.       ,1
+Write a Python script to scrape a website and save to CSV.    ,2
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```               ,2
+Write a SQL query with multiple INNER JOINS and a window function.           ,2
+Write a short essay on climate change impacts.       ,1
+What is the capital of France?  ,0
+Summarize this text.     ,0
+Write a polite email saying I will be late. ,0
+What are the main causes of the French Revolution?      ,1
+Explain quantum computing to a 5-year-old.   ,1
+Compare the differences between Python and Java.        ,1
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.    ,2
+Write a SQL query with multiple INNER JOINS and a window function.  ,2
+What is the capital of France?   ,0
+Write a short essay on climate change impacts.        ,1
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```   ,2
+How do I structure a JSON payload for a REST API?          ,1
+How do I structure a JSON payload for a REST API?,1
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```             ,2
+Compare the differences between Python and Java.    ,1
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ``` ,2
+"Hello, how are you?    ",0
+Compare the differences between Python and Java.   ,1
+Write a short essay on climate change impacts.          ,1
+What are the main causes of the French Revolution?  ,1
+Summarize this text. ,0
+What is the capital of France?  ,0
+"Hello, how are you?",0
+What is the weather like today? ,0
+What are the main causes of the French Revolution?       ,1
+What is the weather like today?   ,0
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.     ,2
+Compare the differences between Python and Java.   ,1
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.     ,2
+Summarize this text.    ,0
+Write a SQL query with multiple INNER JOINS and a window function.      ,2
+Summarize this text.     ,0
+Write a short essay on climate change impacts.,1
+Write a polite email saying I will be late.    ,0
+Compare the differences between Python and Java.         ,1
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```  ,2
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.          ,2
+What is the weather like today? ,0
+What are the main causes of the French Revolution? ,1
+What is the capital of France?   ,0
+Translate 'hello' to Spanish.    ,0
+Write a SQL query with multiple INNER JOINS and a window function.          ,2
+How do I structure a JSON payload for a REST API?     ,1
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```      ,2
+What are the main causes of the French Revolution?    ,1
+Write a short essay on climate change impacts.       ,1
+Write a short essay on climate change impacts.       ,1
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```            ,2
+How do I structure a JSON payload for a REST API?      ,1
+Summarize this text.,0
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```           ,2
+Compare the differences between Python and Java.        ,1
+"Hello, how are you?     ",0
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.  ,2
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```         ,2
+What is the weather like today? ,0
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```          ,2
+"Hello, how are you?    ",0
+Explain quantum computing to a 5-year-old.       ,1
+What are the main causes of the French Revolution?,1
+Write a polite email saying I will be late. ,0
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ``` ,2
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```     ,2
+How do I structure a JSON payload for a REST API?         ,1
+Write a SQL query with multiple INNER JOINS and a window function. ,2
+Translate 'hello' to Spanish.,0
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```      ,2
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```       ,2
+How do I structure a JSON payload for a REST API?      ,1
+Write a short essay on climate change impacts. ,1
+How do I structure a JSON payload for a REST API?       ,1
+Write a SQL query with multiple INNER JOINS and a window function.      ,2
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```          ,2
+"Hello, how are you?  ",0
+Write a Python script to scrape a website and save to CSV.  ,2
+Summarize this text.,0
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ``` ,2
+Summarize this text.    ,0
+Write a Python script to scrape a website and save to CSV.               ,2
+Write a SQL query with multiple INNER JOINS and a window function.           ,2
+Write a SQL query with multiple INNER JOINS and a window function.            ,2
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```       ,2
+What are the main causes of the French Revolution?        ,1
+"Hello, how are you?   ",0
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```         ,2
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```    ,2
+Compare the differences between Python and Java.         ,1
+Compare the differences between Python and Java.,1
+Explain quantum computing to a 5-year-old.        ,1
+What is the capital of France?,0
+Summarize this text.     ,0
+What are the main causes of the French Revolution?          ,1
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```    ,2
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.         ,2
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```        ,2
+Write a short essay on climate change impacts.,1
+Translate 'hello' to Spanish.,0
+Write a SQL query with multiple INNER JOINS and a window function.             ,2
+Explain quantum computing to a 5-year-old.     ,1
+How do I structure a JSON payload for a REST API?          ,1
+"Hello, how are you?",0
+Write a short essay on climate change impacts.          ,1
+What is the capital of France?  ,0
+What are the main causes of the French Revolution?  ,1
+Write a short essay on climate change impacts.          ,1
+Explain quantum computing to a 5-year-old. ,1
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.             ,2
+Write a short essay on climate change impacts.       ,1
+Write a short essay on climate change impacts.    ,1
+Write a polite email saying I will be late.,0
+Summarize this text.,0
+Compare the differences between Python and Java.     ,1
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```        ,2
+Translate 'hello' to Spanish.    ,0
+Explain quantum computing to a 5-year-old.  ,1
+What is the capital of France?    ,0
+What is the capital of France?     ,0
+What is the capital of France?   ,0
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.           ,2
+Write a polite email saying I will be late.    ,0
+Compare the differences between Python and Java.,1
+What is the capital of France? ,0
+What is the weather like today? ,0
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```   ,2
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```        ,2
+Write a Python script to scrape a website and save to CSV.  ,2
+Write a Python script to scrape a website and save to CSV.          ,2
+Write a short essay on climate change impacts.          ,1
+Write a short essay on climate change impacts.        ,1
+"Hello, how are you?",0
+Write a Python script to scrape a website and save to CSV.             ,2
+Write a polite email saying I will be late. ,0
+What is the capital of France? ,0
+How do I structure a JSON payload for a REST API? ,1
+Write a short essay on climate change impacts.    ,1
+What is the capital of France?  ,0
+What are the main causes of the French Revolution? ,1
+Write a short essay on climate change impacts.   ,1
+"Hello, how are you?    ",0
+Write a short essay on climate change impacts. ,1
+What is the weather like today?,0
+What is the capital of France?    ,0
+Translate 'hello' to Spanish.,0
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation. ,2
+What is the weather like today?  ,0
+Write a short essay on climate change impacts.          ,1
+Write a SQL query with multiple INNER JOINS and a window function.            ,2
+Write a SQL query with multiple INNER JOINS and a window function.        ,2
+What is the capital of France?,0
+Summarize this text.    ,0
+Summarize this text.   ,0
+Compare the differences between Python and Java.       ,1
+What are the main causes of the French Revolution?     ,1
+"Hello, how are you?   ",0
+Translate 'hello' to Spanish.,0
+Compare the differences between Python and Java.          ,1
+Explain quantum computing to a 5-year-old.        ,1
+Write a Python script to scrape a website and save to CSV.,2
+What is the weather like today?     ,0
+Summarize this text.     ,0
+Write a Python script to scrape a website and save to CSV.          ,2
+Write a SQL query with multiple INNER JOINS and a window function.    ,2
+Explain quantum computing to a 5-year-old. ,1
+What is the capital of France?    ,0
+Explain quantum computing to a 5-year-old.  ,1
+Explain quantum computing to a 5-year-old.       ,1
+What is the capital of France?,0
+Write a short essay on climate change impacts.    ,1
+What is the capital of France?,0
+Write a SQL query with multiple INNER JOINS and a window function.,2
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```    ,2
+What are the main causes of the French Revolution?     ,1
+What is the capital of France?     ,0
+What is the weather like today?,0
+What are the main causes of the French Revolution?         ,1
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.               ,2
+Explain quantum computing to a 5-year-old.  ,1
+Compare the differences between Python and Java.    ,1
+Summarize this text. ,0
+What is the weather like today?    ,0
+Write a short essay on climate change impacts.       ,1
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.,2
+Write a Python script to scrape a website and save to CSV.     ,2
+"Hello, how are you?  ",0
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```           ,2
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.         ,2
+Translate 'hello' to Spanish.   ,0
+What is the capital of France?    ,0
+Write a short essay on climate change impacts.         ,1
+Translate 'hello' to Spanish.   ,0
+"Hello, how are you?   ",0
+Translate 'hello' to Spanish.,0
+What is the weather like today?  ,0
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.,2
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```      ,2
+Compare the differences between Python and Java.      ,1
+What are the main causes of the French Revolution?   ,1
+Write a SQL query with multiple INNER JOINS and a window function. ,2
+Translate 'hello' to Spanish.     ,0
+What is the weather like today?     ,0
+Write a short essay on climate change impacts.,1
+Write a Python script to scrape a website and save to CSV.       ,2
+What are the main causes of the French Revolution?,1
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```      ,2
+Explain quantum computing to a 5-year-old.   ,1
+Write a Python script to scrape a website and save to CSV. ,2
+What is the weather like today?     ,0
+Write a polite email saying I will be late.  ,0
+Write a short essay on climate change impacts.     ,1
+Write a polite email saying I will be late.  ,0
+Summarize this text.,0
+What are the main causes of the French Revolution?      ,1
+How do I structure a JSON payload for a REST API?       ,1
+How do I structure a JSON payload for a REST API?,1
+Write a short essay on climate change impacts.          ,1
+What are the main causes of the French Revolution?   ,1
+What is the weather like today?   ,0
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.        ,2
+Compare the differences between Python and Java.   ,1
+What is the capital of France?    ,0
+Write a Python script to scrape a website and save to CSV.             ,2
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```     ,2
+"Hello, how are you?  ",0
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.  ,2
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.,2
+What are the main causes of the French Revolution? ,1
+Write a SQL query with multiple INNER JOINS and a window function.    ,2
+How do I structure a JSON payload for a REST API?    ,1
+Explain quantum computing to a 5-year-old.       ,1
+Write a SQL query with multiple INNER JOINS and a window function.    ,2
+What are the main causes of the French Revolution?         ,1
+Compare the differences between Python and Java.     ,1
+"Hello, how are you?   ",0
+How do I structure a JSON payload for a REST API?        ,1
+What are the main causes of the French Revolution?    ,1
+How do I structure a JSON payload for a REST API?   ,1
+Write a polite email saying I will be late.    ,0
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.        ,2
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```       ,2
+Write a polite email saying I will be late.    ,0
+Explain quantum computing to a 5-year-old.     ,1
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```        ,2
+Write a polite email saying I will be late.  ,0
+Translate 'hello' to Spanish.     ,0
+Write a short essay on climate change impacts.,1
+Summarize this text. ,0
+How do I structure a JSON payload for a REST API?,1
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```,2
+Compare the differences between Python and Java.       ,1
+Explain quantum computing to a 5-year-old.,1
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```     ,2
+How do I structure a JSON payload for a REST API?        ,1
+"Hello, how are you?",0
+Write a Python script to scrape a website and save to CSV.         ,2
+Explain quantum computing to a 5-year-old.        ,1
+How do I structure a JSON payload for a REST API?          ,1
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```               ,2
+Compare the differences between Python and Java.        ,1
+What is the capital of France?    ,0
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```         ,2
+Explain quantum computing to a 5-year-old.     ,1
+Write a polite email saying I will be late.    ,0
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```    ,2
+What are the main causes of the French Revolution?         ,1
+Write a SQL query with multiple INNER JOINS and a window function.    ,2
+Write a SQL query with multiple INNER JOINS and a window function.            ,2
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```    ,2
+"Hello, how are you?",0
+Write a polite email saying I will be late. ,0
+Write a short essay on climate change impacts.    ,1
+What is the weather like today?  ,0
+Summarize this text.,0
+What is the capital of France?     ,0
+Write a short essay on climate change impacts.,1
+Write a SQL query with multiple INNER JOINS and a window function.      ,2
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```          ,2
+Write a short essay on climate change impacts.   ,1
+Summarize this text.    ,0
+Write a SQL query with multiple INNER JOINS and a window function.       ,2
+How do I structure a JSON payload for a REST API?   ,1
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```             ,2
+What is the capital of France?   ,0
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```         ,2
+Write a short essay on climate change impacts.        ,1
+What are the main causes of the French Revolution?    ,1
+How do I structure a JSON payload for a REST API?       ,1
+Explain quantum computing to a 5-year-old.       ,1
+"Hello, how are you?",0
+How do I structure a JSON payload for a REST API?   ,1
+Write a Python script to scrape a website and save to CSV.          ,2
+Summarize this text.    ,0
+Write a Python script to scrape a website and save to CSV.             ,2
+Compare the differences between Python and Java.     ,1
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```             ,2
+Summarize this text.     ,0
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```             ,2
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.      ,2
+Summarize this text.    ,0
+Explain quantum computing to a 5-year-old.   ,1
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```             ,2
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```    ,2
+Write a Python script to scrape a website and save to CSV.    ,2
+Write a Python script to scrape a website and save to CSV.            ,2
+Write a SQL query with multiple INNER JOINS and a window function.       ,2
+What are the main causes of the French Revolution?         ,1
+Translate 'hello' to Spanish.    ,0
+What are the main causes of the French Revolution?      ,1
+What is the capital of France?,0
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.           ,2
+What are the main causes of the French Revolution?      ,1
+Explain quantum computing to a 5-year-old.       ,1
+"Hello, how are you?",0
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```      ,2
+Write a polite email saying I will be late.     ,0
+Write a Python script to scrape a website and save to CSV.           ,2
+Write a short essay on climate change impacts.  ,1
+Write a SQL query with multiple INNER JOINS and a window function.          ,2
+What are the main causes of the French Revolution?       ,1
+Write a SQL query with multiple INNER JOINS and a window function.               ,2
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.              ,2
+"Hello, how are you?     ",0
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.         ,2
+"Hello, how are you?",0
+Write a short essay on climate change impacts.         ,1
+Translate 'hello' to Spanish. ,0
+Write a SQL query with multiple INNER JOINS and a window function.,2
+How do I structure a JSON payload for a REST API? ,1
+Write a SQL query with multiple INNER JOINS and a window function.             ,2
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.            ,2
+Write a polite email saying I will be late.    ,0
+Write a Python script to scrape a website and save to CSV.   ,2
+How do I structure a JSON payload for a REST API?        ,1
+Write a short essay on climate change impacts.        ,1
+How do I structure a JSON payload for a REST API?    ,1
+What is the capital of France?  ,0
+What is the capital of France?     ,0
+What are the main causes of the French Revolution?  ,1
+Compare the differences between Python and Java.        ,1
+Write a Python script to scrape a website and save to CSV.   ,2
+Summarize this text. ,0
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```       ,2
+Summarize this text.  ,0
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```          ,2
+Write a polite email saying I will be late.    ,0
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.      ,2
+Translate 'hello' to Spanish.    ,0
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```      ,2
+Write a SQL query with multiple INNER JOINS and a window function.              ,2
+Explain quantum computing to a 5-year-old.          ,1
+Explain quantum computing to a 5-year-old.    ,1
+Write a short essay on climate change impacts. ,1
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.      ,2
+Compare the differences between Python and Java.  ,1
+Explain quantum computing to a 5-year-old.,1
+What are the main causes of the French Revolution?,1
+What is the capital of France?   ,0
+What is the weather like today?    ,0
+Write a SQL query with multiple INNER JOINS and a window function.  ,2
+"Hello, how are you? ",0
+Write a Python script to scrape a website and save to CSV.,2
+How do I structure a JSON payload for a REST API?          ,1
+What are the main causes of the French Revolution?,1
+"Hello, how are you?   ",0
+Write a SQL query with multiple INNER JOINS and a window function.  ,2
+Summarize this text.    ,0
+Translate 'hello' to Spanish.,0
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```        ,2
+What is the weather like today?   ,0
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```           ,2
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```       ,2
+How do I structure a JSON payload for a REST API?  ,1
+Explain quantum computing to a 5-year-old. ,1
+Write a Python script to scrape a website and save to CSV.       ,2
+Summarize this text. ,0
+Compare the differences between Python and Java.       ,1
+"Hello, how are you?  ",0
+Write a short essay on climate change impacts.       ,1
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```             ,2
+"Hello, how are you? ",0
+What is the capital of France?,0
+What is the capital of France?  ,0
+Summarize this text. ,0
+Explain quantum computing to a 5-year-old.          ,1
+What is the weather like today?     ,0
+What is the capital of France? ,0
+Write a SQL query with multiple INNER JOINS and a window function.            ,2
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```           ,2
+Write a Python script to scrape a website and save to CSV.         ,2
+Write a polite email saying I will be late.     ,0
+What are the main causes of the French Revolution?       ,1
+Write a polite email saying I will be late.     ,0
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.          ,2
+What is the capital of France?   ,0
+Translate 'hello' to Spanish.   ,0
+Write a short essay on climate change impacts.      ,1
+Write a SQL query with multiple INNER JOINS and a window function.          ,2
+What are the main causes of the French Revolution?       ,1
+Write a polite email saying I will be late. ,0
+Write a Python script to scrape a website and save to CSV.       ,2
+What are the main causes of the French Revolution?  ,1
+What is the capital of France?  ,0
+Explain quantum computing to a 5-year-old.  ,1
+Summarize this text.     ,0
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.,2
+Explain quantum computing to a 5-year-old.          ,1
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.      ,2
+How do I structure a JSON payload for a REST API?     ,1
+"Hello, how are you?",0
+Translate 'hello' to Spanish.   ,0
+Write a SQL query with multiple INNER JOINS and a window function.         ,2
+Write a short essay on climate change impacts.        ,1
+How do I structure a JSON payload for a REST API?,1
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.   ,2
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```  ,2
+What are the main causes of the French Revolution?,1
+Explain quantum computing to a 5-year-old.    ,1
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.     ,2
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.              ,2
+Write a SQL query with multiple INNER JOINS and a window function.         ,2
+Summarize this text.     ,0
+Compare the differences between Python and Java.         ,1
+How do I structure a JSON payload for a REST API?        ,1
+What is the weather like today?    ,0
+Write a polite email saying I will be late. ,0
+What is the capital of France?     ,0
+Summarize this text.    ,0
+Compare the differences between Python and Java.       ,1
+Write a polite email saying I will be late.  ,0
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```               ,2
+What is the capital of France?     ,0
+What is the capital of France?  ,0
+What is the weather like today? ,0
+What is the weather like today?   ,0
+Compare the differences between Python and Java.     ,1
+Write a SQL query with multiple INNER JOINS and a window function.              ,2
+What are the main causes of the French Revolution?    ,1
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.             ,2
+Translate 'hello' to Spanish.,0
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```           ,2
+How do I structure a JSON payload for a REST API?      ,1
+Write a SQL query with multiple INNER JOINS and a window function.       ,2
+Write a SQL query with multiple INNER JOINS and a window function.             ,2
+Write a Python script to scrape a website and save to CSV.           ,2
+Summarize this text.,0
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.           ,2
+What are the main causes of the French Revolution? ,1
+Compare the differences between Python and Java.    ,1
+"Hello, how are you?   ",0
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.           ,2
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.              ,2
+Write a SQL query with multiple INNER JOINS and a window function.     ,2
+"Hello, how are you?",0
+What is the capital of France?  ,0
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```,2
+What is the weather like today?  ,0
+What are the main causes of the French Revolution?   ,1
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```               ,2
+Write a polite email saying I will be late.   ,0
+Write a Python script to scrape a website and save to CSV.    ,2
+What is the weather like today?,0
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```         ,2
+Write a SQL query with multiple INNER JOINS and a window function.             ,2
+What is the capital of France?    ,0
+Write a short essay on climate change impacts.          ,1
+Translate 'hello' to Spanish.  ,0
+What is the capital of France?  ,0
+Write a short essay on climate change impacts.        ,1
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```  ,2
+What is the weather like today?    ,0
+Translate 'hello' to Spanish.,0
+Explain quantum computing to a 5-year-old.       ,1
+What are the main causes of the French Revolution?  ,1
+Translate 'hello' to Spanish. ,0
+"Hello, how are you?    ",0
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.       ,2
+Write a short essay on climate change impacts.       ,1
+How do I structure a JSON payload for a REST API?   ,1
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ``` ,2
+What are the main causes of the French Revolution?         ,1
+Compare the differences between Python and Java.   ,1
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```          ,2
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```,2
+Explain quantum computing to a 5-year-old.       ,1
+What is the weather like today?   ,0
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.           ,2
+What is the capital of France?,0
+"Hello, how are you?    ",0
+Write a polite email saying I will be late.     ,0
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```               ,2
+Compare the differences between Python and Java.       ,1
+Write a SQL query with multiple INNER JOINS and a window function.   ,2
+What is the weather like today?,0
+Explain quantum computing to a 5-year-old.    ,1
+What are the main causes of the French Revolution?         ,1
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.  ,2
+Write a SQL query with multiple INNER JOINS and a window function. ,2
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```      ,2
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.          ,2
+Write a short essay on climate change impacts.         ,1
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```,2
+What is the capital of France?     ,0
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```              ,2
+How do I structure a JSON payload for a REST API?        ,1
+Write a short essay on climate change impacts.,1
+Compare the differences between Python and Java.          ,1
+Summarize this text. ,0
+Summarize this text.     ,0
+Write a SQL query with multiple INNER JOINS and a window function.        ,2
+Write a SQL query with multiple INNER JOINS and a window function.   ,2
+Explain quantum computing to a 5-year-old.,1
+Compare the differences between Python and Java. ,1
+What are the main causes of the French Revolution?         ,1
+Write a short essay on climate change impacts.     ,1
+Summarize this text.   ,0
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.            ,2
+What is the weather like today?     ,0
+Compare the differences between Python and Java.   ,1
+Write a short essay on climate change impacts.   ,1
+Write a polite email saying I will be late. ,0
+Explain quantum computing to a 5-year-old.  ,1
+What are the main causes of the French Revolution?       ,1
+Summarize this text.     ,0
+Compare the differences between Python and Java.  ,1
+Translate 'hello' to Spanish.    ,0
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```   ,2
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.,2
+Write a Python script to scrape a website and save to CSV.  ,2
+Compare the differences between Python and Java. ,1
+"Hello, how are you? ",0
+Summarize this text.,0
+Compare the differences between Python and Java.          ,1
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```            ,2
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.          ,2
+Translate 'hello' to Spanish.    ,0
+What is the weather like today?     ,0
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.  ,2
+Summarize this text.  ,0
+Write a Python script to scrape a website and save to CSV.               ,2
+Summarize this text.,0
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```         ,2
+How do I structure a JSON payload for a REST API?   ,1
+Summarize this text.   ,0
+How do I structure a JSON payload for a REST API?     ,1
+How do I structure a JSON payload for a REST API? ,1
+What are the main causes of the French Revolution?  ,1
+Write a SQL query with multiple INNER JOINS and a window function.   ,2
+Write a Python script to scrape a website and save to CSV.       ,2
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.,2
+Write a SQL query with multiple INNER JOINS and a window function.    ,2
+Summarize this text.   ,0
+Compare the differences between Python and Java.        ,1
+Write a SQL query with multiple INNER JOINS and a window function.           ,2
+Write a polite email saying I will be late.    ,0
+Summarize this text.   ,0
+Write a Python script to scrape a website and save to CSV.    ,2
+"Hello, how are you?",0
+Translate 'hello' to Spanish.    ,0
+Translate 'hello' to Spanish. ,0
+"Hello, how are you?   ",0
+How do I structure a JSON payload for a REST API?     ,1
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```        ,2
+"Hello, how are you?",0
+"Hello, how are you?  ",0
+Compare the differences between Python and Java. ,1
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.            ,2
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```         ,2
+Write a SQL query with multiple INNER JOINS and a window function.          ,2
+How do I structure a JSON payload for a REST API?        ,1
+Write a short essay on climate change impacts.         ,1
+Write a SQL query with multiple INNER JOINS and a window function. ,2
+What is the capital of France?    ,0
+Write a short essay on climate change impacts.   ,1
+Write a short essay on climate change impacts.    ,1
+What is the weather like today?,0
+What is the capital of France?     ,0
+Write a Python script to scrape a website and save to CSV.  ,2
+Write a SQL query with multiple INNER JOINS and a window function.  ,2
+Write a Python script to scrape a website and save to CSV.         ,2
+Explain quantum computing to a 5-year-old.          ,1
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.   ,2
+"Hello, how are you?     ",0
+Translate 'hello' to Spanish.   ,0
+How do I structure a JSON payload for a REST API? ,1
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```       ,2
+Summarize this text.   ,0
+How do I structure a JSON payload for a REST API?   ,1
+What is the capital of France?  ,0
+Write a SQL query with multiple INNER JOINS and a window function. ,2
+"Hello, how are you? ",0
+Explain quantum computing to a 5-year-old.   ,1
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```      ,2
+Write a SQL query with multiple INNER JOINS and a window function.      ,2
+Explain quantum computing to a 5-year-old.          ,1
+"Hello, how are you?     ",0
+Write a polite email saying I will be late.    ,0
+Translate 'hello' to Spanish.     ,0
+Write a polite email saying I will be late.     ,0
+Translate 'hello' to Spanish.    ,0
+Explain quantum computing to a 5-year-old.    ,1
+Write a SQL query with multiple INNER JOINS and a window function.      ,2
+What are the main causes of the French Revolution?        ,1
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.           ,2
+Write a Python script to scrape a website and save to CSV.       ,2
+Write a short essay on climate change impacts.     ,1
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```            ,2
+What is the capital of France?     ,0
+Write a short essay on climate change impacts.    ,1
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```,2
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.            ,2
+How do I structure a JSON payload for a REST API?    ,1
+Translate 'hello' to Spanish.   ,0
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```              ,2
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```       ,2
+Write a SQL query with multiple INNER JOINS and a window function.,2
+Explain quantum computing to a 5-year-old.  ,1
+How do I structure a JSON payload for a REST API?  ,1
+Write a polite email saying I will be late.   ,0
+"Hello, how are you?",0
+Summarize this text. ,0
+Write a polite email saying I will be late.   ,0
+Write a short essay on climate change impacts.          ,1
+"Hello, how are you? ",0
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```       ,2
+Write a polite email saying I will be late.     ,0
+Summarize this text.  ,0
+Compare the differences between Python and Java.      ,1
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation. ,2
+What is the weather like today?   ,0
+Compare the differences between Python and Java.  ,1
+Compare the differences between Python and Java.        ,1
+Write a short essay on climate change impacts.   ,1
+Write a SQL query with multiple INNER JOINS and a window function.              ,2
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.     ,2
+What is the capital of France?    ,0
+Write a short essay on climate change impacts.  ,1
+What are the main causes of the French Revolution?         ,1
+What are the main causes of the French Revolution?       ,1
+Write a short essay on climate change impacts.        ,1
+What is the weather like today?,0
+Write a SQL query with multiple INNER JOINS and a window function.           ,2
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.               ,2
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.,2
+What is the capital of France?     ,0
+How do I structure a JSON payload for a REST API?    ,1
+What are the main causes of the French Revolution?         ,1
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```               ,2
+What is the capital of France?,0
+Write a short essay on climate change impacts.         ,1
+Explain quantum computing to a 5-year-old.  ,1
+Compare the differences between Python and Java.     ,1
+What is the weather like today?,0
+Write a polite email saying I will be late.   ,0
+Write a SQL query with multiple INNER JOINS and a window function.            ,2
+Write a Python script to scrape a website and save to CSV.        ,2
+What are the main causes of the French Revolution?         ,1
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.   ,2
+Compare the differences between Python and Java.        ,1
+Write a short essay on climate change impacts.          ,1
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ``` ,2
+Write a short essay on climate change impacts. ,1
+Write a Python script to scrape a website and save to CSV.         ,2
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.       ,2
+"Hello, how are you?",0
+Write a short essay on climate change impacts.       ,1
+Write a SQL query with multiple INNER JOINS and a window function. ,2
+How do I structure a JSON payload for a REST API?        ,1
+Write a polite email saying I will be late.    ,0
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```             ,2
+Calculate the time complexity of a recursive Fibonacci sequence using Big O notation.      ,2
+What is the capital of France? ,0
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```      ,2
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ``` ,2
+Translate 'hello' to Spanish.   ,0
+How do I fix this React useEffect dependency array infinite loop: ```javascript ... ```       ,2
+What are the main causes of the French Revolution?   ,1
+Explain quantum computing to a 5-year-old.,1
+What are the main causes of the French Revolution?   ,1
+Write a Python script to scrape a website and save to CSV.        ,2
+What is the capital of France?    ,0
+What are the main causes of the French Revolution?     ,1
+Write a short essay on climate change impacts.      ,1
+What is the capital of France?     ,0
+Write a polite email saying I will be late.     ,0
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```        ,2
+Debug this memory leak in my C++ pointer assignment: ```cpp ... ```               ,2
