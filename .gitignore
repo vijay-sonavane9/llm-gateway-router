@@ -1,16 +1,18 @@
 # Environments
 venv/
-env/
-.venv/
-
-# Secrets
 .env
+
+# Caches and logs
+__pycache__/
+*.pyc
+mlruns/
 
 # Databases
 *.db
 *.sqlite3
+metrics.db
+mlflow.db
 
-# IDEs and Cache
+
+# IDEs
 .vscode/
-__pycache__/
-*.pyc
