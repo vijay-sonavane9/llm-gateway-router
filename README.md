@@ -1,6 +1,5 @@
 # 🔀 Smart LLM Cost Gateway & Multi-Model Router
 
-[Uploading image.png…]()
 
 **Live Demo:** [http://56.228.36.28:8501](http://56.228.36.28:8501) *(Running on AWS EC2)*
 
